@@ -1,0 +1,7 @@
+NameVirtualHost edavaka.app:80
+<VirtualHost edavaka.app:80>
+    ServerAdmin edavaka.app
+    DocumentRoot "F:/xampp/htdocs/brimsol/edavaka/public"
+    ServerName edavaka.app
+    ServerAlias www.edavaka.app
+</VirtualHost>
